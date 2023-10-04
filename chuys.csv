@@ -1,0 +1,106 @@
+item_id,company_name,item_name,protein_option,price,description,added_date,last_modified_date,discontinued_date
+Title,Family Meal Kits,,
+2,Chuys,Family Meal Kits,Fajita Kit,$65.00,"-Fajitas for 4 - Chicken, Beef or Combo -Lettuce, Pico de Gallo, Mixe...",2023-09-28,2023-09-28,none
+3,Chuys,Family Meal Kits,Taco Kit,,-6 or 12 Crispy Taco Shells or Soft Flour Tortillas -Choice of Ground...,2023-09-28,2023-09-28,none
+4,Chuys,Family Meal Kits,"Peace, Love & Enchiladas Kit",$55.00,"-8 Enchiladas - Cheese, Roasted Chicken or Ground Beef with your Choic...",2023-09-28,2023-09-28,none
+5,Chuys,Family Meal Kits,Kick It Up a Nacho Kit - Take Happy Hour Home!,$35.00,"-Chips, Queso, Ground Beef, Refried Beans, Salsa Fresca and Creamy Jal...",2023-09-28,2023-09-28,none
+Title,Ritas & More,,
+7,Chuys,Ritas & More,Margarita Kits,,"Chuy's Famous Margaritas To Go! Chuy's Sour Mix, lime, and your choic...",2023-09-28,2023-09-28,none
+8,Chuys,Ritas & More,Gallon Frozen Margarita,,"A gallon of Chuy's Famous Frozen Margaritas To Go! Sour Mix, Tequila, ...",2023-09-28,2023-09-28,none
+9,Chuys,Ritas & More,Chuy's Famous Ritas (pre-mixed),,"10oz of Chuy's Famous Margaritas, pre-mixed with tequila, served with ...",2023-09-28,2023-09-28,none
+10,Chuys,Ritas & More,LARGE Chuy's Famous Ritas (pre-mixed),,"A Large Chuy's Famous Margarita, pre-mixed with tequila, served with s...",2023-09-28,2023-09-28,none
+11,Chuys,Ritas & More,Paloma,$12.00,"Cazadores Reposado tequila, Deep Eddy Ruby Red Vodka, Owen’s Grapefrui...",2023-09-28,2023-09-28,none
+12,Chuys,Ritas & More,Wild Berry Mexican Mule,$11.50,"Teremana Blanco tequila, blackberry and raspberry purees, lemon juice ...",2023-09-28,2023-09-28,none
+13,Chuys,Ritas & More,Smashin' Peachy,$13.75,"Botanist gin, Don Julio Blanco tequila, peach puree, fresh mint, and O...",2023-09-28,2023-09-28,none
+14,Chuys,Ritas & More,New Mexican Martini,$11.50,10oz of our el Jimador Silver tequila infused with green chiles and Co...,2023-09-28,2023-09-28,none
+15,Chuys,Ritas & More,LARGE New Mexican Martini,$15.00,Large version of our el Jimador Silver tequila infused with green chil...,2023-09-28,2023-09-28,none
+16,Chuys,Ritas & More,32oz Margarita Mix (non-alcoholic),$5.00,,2023-09-28,2023-09-28,none
+17,Chuys,Ritas & More,Domestic Beer,,,2023-09-28,2023-09-28,none
+18,Chuys,Ritas & More,Premium Beer,,,2023-09-28,2023-09-28,none
+19,Chuys,Ritas & More,Canyon Road Chardonnay (bottle),$23.00,,2023-09-28,2023-09-28,none
+20,Chuys,Ritas & More,ECCO Domani Pinot Grigio (bottle),$26.00,,2023-09-28,2023-09-28,none
+21,Chuys,Ritas & More,Canyon Road Pinot Noir (bottle),$23.00,,2023-09-28,2023-09-28,none
+22,Chuys,Ritas & More,Dark Horse Cabernet (bottle),$26.00,,2023-09-28,2023-09-28,none
+23,Chuys,Ritas & More,Tito's Cherry Limeade Kit,$30.00,,2023-09-28,2023-09-28,none
+Title,Appetizers,,
+25,Chuys,Appetizers,Queso,,"Blend of melted cheese, Green Chile sauce and Ranchero sauce.",2023-09-28,2023-09-28,none
+26,Chuys,Appetizers,Guacamole,$8.36,"Fresh avocados & Salsa Fresca, all mashed up.",2023-09-28,2023-09-28,none
+27,Chuys,Appetizers,Nachos,,"Tostada chips, refried beans and cheese, with lettuce, pico de gallo &...",2023-09-28,2023-09-28,none
+28,Chuys,Appetizers,Panchos,,"Nachos with your choice of fajita chicken, fajita beef or seasoned gro...",2023-09-28,2023-09-28,none
+29,Chuys,Appetizers,Quesadillas,,"Flour tortillas stuffed with cheese, green chiles and onion. Served w...",2023-09-28,2023-09-28,none
+Title,Soup & Salads,,
+31,Chuys,Soup & Salads,Mexi-Cobb Salad,,"Fajita chicken, green chiles, cheese, avocados and tomatoes on a bed o...",2023-09-28,2023-09-28,none
+32,Chuys,Soup & Salads,Taco Salad,,"Fresh salad mix with tortilla strips, cheese, guacamole, tomatoes & yo...",2023-09-28,2023-09-28,none
+33,Chuys,Soup & Salads,Tortilla Soup,,"Homemade chicken broth with roasted chicken, corn, green chiles, tomat...",2023-09-28,2023-09-28,none
+Title,Burritos,,
+35,Chuys,Burritos,Steak Burrito,$13.66,"A flour tortilla stuffed with grilled steak and jack cheese, topped wi...",2023-09-28,2023-09-28,none
+36,Chuys,Burritos,Bean & Cheese Burrito,$11.65,A flour tortilla stuffed with refried beans and cheese. Served with yo...,2023-09-28,2023-09-28,none
+37,Chuys,Burritos,Seasoned Ground Beef Burrito,$12.50,"A flour tortilla stuffed with refried beans, cheese, and seasoned grou...",2023-09-28,2023-09-28,none
+38,Chuys,Burritos,Roasted Chicken Burrito,$13.03,"A flour tortilla stuffed with refried beans, cheese, and fresh, oven-r...",2023-09-28,2023-09-28,none
+39,Chuys,Burritos,Fajita Chicken Burrito,$14.09,"A flour tortilla stuffed with refried beans, cheese, and fajita chicke...",2023-09-28,2023-09-28,none
+40,Chuys,Burritos,Fajita Beef Burrito,$14.09,"A flour tortilla stuffed with refried beans, cheese, and fajita beef. ...",2023-09-28,2023-09-28,none
+Title,Tacos,,
+42,Chuys,Tacos,Crispy Tacos,$11.12,"You know what we mean. Seasoned ground beef, lettuce, cheese and toma...",2023-09-28,2023-09-28,none
+43,Chuys,Tacos,Soft Tacos,,Flour or corn tortillas with your choice of filling and a side of lett...,2023-09-28,2023-09-28,none
+44,Chuys,Tacos,Tacos Al Carbon,,Fajita beef or chicken with grilled onions and green chiles in flour o...,2023-09-28,2023-09-28,none
+45,Chuys,Tacos,Baja Shrimp Tacos,$13.03,"Flour tortillas with lightly battered & fried shrimp, cilantro, cabbag...",2023-09-28,2023-09-28,none
+Title,Fajitas,,
+47,Chuys,Fajitas,Combo Fajitas,,A combination of beef and chicken marinated in our signature blend of ...,2023-09-28,2023-09-28,none
+48,Chuys,Fajitas,Beef Fajitas,,"Beef marinated in our signature blend of Shiner Bock® beer, serrano pe...",2023-09-28,2023-09-28,none
+49,Chuys,Fajitas,Chicken Fajitas,,"Chicken marinated in our signature blend of Shiner Bock® beer, serrano...",2023-09-28,2023-09-28,none
+Title,Enchiladas,,
+51,Chuys,Enchiladas,Chicka-Chicka Boom-Boom Enchiladas,$13.45,Roasted chicken and cheese with our fan favorite Boom-Boom (hot) Sauce...,2023-09-28,2023-09-28,none
+52,Chuys,Enchiladas,Custom Enchiladas,,"Seasoned ground beef, roasted chicken or cheese with your choice of Si...",2023-09-28,2023-09-28,none
+53,Chuys,Enchiladas,Deluxe Chicken Enchiladas,$12.29,Roasted chicken and cheese with Deluxe Tomatillo Sauce. Served with M...,2023-09-28,2023-09-28,none
+54,Chuys,Enchiladas,Veggie Enchiladas,$11.23,"Corn tortillas with spinach, onions, zucchini, red bell peppers, serra...",2023-09-28,2023-09-28,none
+55,Chuys,Enchiladas,Tex-Mex Enchiladas,$12.29,Straight to you from South Texas. Cheese enchiladas with our signatur...,2023-09-28,2023-09-28,none
+Title,House Specialties,,
+57,Chuys,House Specialties,Chicken Flautas,$11.44,"Corn tortillas filled with roasted chicken and cheese, rolled and frie...",2023-09-28,2023-09-28,none
+58,Chuys,House Specialties,Chuychanga,$13.45,"A flour tortilla filled with roasted chicken, cheese, cilantro and gre...",2023-09-28,2023-09-28,none
+59,Chuys,House Specialties,Steak Burrito,$13.66,"A flour tortilla stuffed with grilled steak and jack cheese, topped wi...",2023-09-28,2023-09-28,none
+60,Chuys,House Specialties,Comida Deluxe,$14.19,"Cheese enchiladas with Tex-Mex Sauce, chicken flautas, a crispy taco, ...",2023-09-28,2023-09-28,none
+61,Chuys,House Specialties,The Elvis Presley Memorial Combo,$14.19,"A seasoned ground beef enchilada with Tex-Mex Sauce, chicken enchilada...",2023-09-28,2023-09-28,none
+62,Chuys,House Specialties,Taco & Enchilada Combo,$11.23,"Seasoned ground sirloin crispy taco, cheese Tex-Mex enchilada. Served ...",2023-09-28,2023-09-28,none
+Title,Dessert,,
+64,Chuys,Dessert,Tres Leches,$8.36,"A generous slice of our signature cake made with three milks, served w...",2023-09-28,2023-09-28,none
+65,Chuys,Dessert,Chuy Chuy Churro Bites,$6.99,"Cinnamon sugar churro bites, served with caramel dipping sauce.",2023-09-28,2023-09-28,none
+Title,Kids,,
+67,Chuys,Kids,Mini Burrito,$6.67,"Mini bean and cheese burrito, served with Ranchero Sauce and your choi...",2023-09-28,2023-09-28,none
+68,Chuys,Kids,Cheese Quesadillas,$6.67,Two grilled tortillas with cheese. Served with your choice of side.,2023-09-28,2023-09-28,none
+69,Chuys,Kids,Enchilada,$6.67,One cheese enchilada served with Ranchero sauce and your choice of sid...,2023-09-28,2023-09-28,none
+70,Chuys,Kids,Cheeseburger,$6.67,Burger patty with cheese. Served with your choice of side.,2023-09-28,2023-09-28,none
+71,Chuys,Kids,Chicken Tenders,$6.67,Chicken tenders served with your choice of side.,2023-09-28,2023-09-28,none
+72,Chuys,Kids,Kid Tacos,$6.67,Two crispy tacos with beef and cheese. Served with your choice of side...,2023-09-28,2023-09-28,none
+Title,Sides,,
+74,Chuys,Sides,Salsa Fresca,,,2023-09-28,2023-09-28,none
+75,Chuys,Sides,Creamy Jalapeno,,,2023-09-28,2023-09-28,none
+76,Chuys,Sides,Chile Con Queso,,,2023-09-28,2023-09-28,none
+77,Chuys,Sides,Boom Boom,,,2023-09-28,2023-09-28,none
+78,Chuys,Sides,Mexican Rice,,,2023-09-28,2023-09-28,none
+79,Chuys,Sides,Refried Beans,,,2023-09-28,2023-09-28,none
+80,Chuys,Sides,Add a Scoop of Guac,$2.28,,2023-09-28,2023-09-28,none
+81,Chuys,Sides,Add a Scoop of Sour Cream,$1.01,,2023-09-28,2023-09-28,none
+82,Chuys,Sides,Add Avocado Slices,$2.28,,2023-09-28,2023-09-28,none
+83,Chuys,Sides,À La Carte Taco,,,2023-09-28,2023-09-28,none
+84,Chuys,Sides,À La Carte Enchilada,$5.04,,2023-09-28,2023-09-28,none
+85,Chuys,Sides,Side of Pico de Gallo,$0.80,,2023-09-28,2023-09-28,none
+86,Chuys,Sides,Side of Mixed Cheese,$1.22,,2023-09-28,2023-09-28,none
+87,Chuys,Sides,1/2 Dozen Tortillas,$2.50,,2023-09-28,2023-09-28,none
+88,Chuys,Sides,Dozen Tortillas,$5.00,,2023-09-28,2023-09-28,none
+Title,Beverages,,
+90,Chuys,Beverages,Iced Tea,$3.17,,2023-09-28,2023-09-28,none
+91,Chuys,Beverages,Coca-Cola,$3.17,,2023-09-28,2023-09-28,none
+92,Chuys,Beverages,Diet Coke,$3.17,,2023-09-28,2023-09-28,none
+93,Chuys,Beverages,Sprite,$3.17,,2023-09-28,2023-09-28,none
+94,Chuys,Beverages,Dr. Pepper,$3.17,,2023-09-28,2023-09-28,none
+95,Chuys,Beverages,Lemonade,$3.17,,2023-09-28,2023-09-28,none
+96,Chuys,Beverages,IBC Root Beer,$3.17,,2023-09-28,2023-09-28,none
+97,Chuys,Beverages,Gallon Iced Tea,$7.42,,2023-09-28,2023-09-28,none
+98,Chuys,Beverages,Gallon Lemonade,$7.42,,2023-09-28,2023-09-28,none
+Title,Donate,,
+100,Chuys,Donate,"Operation Blue Santa Donation (Austin, TX)",$1.00,Help Chuy's support Operation Blue Santa and their mission to provide ...,2023-09-28,2023-09-28,none
+101,Chuys,Donate,"Operation Blue Santa Donation (Austin, TX)",$5.00,Help Chuy's support Operation Blue Santa and their mission to provide ...,2023-09-28,2023-09-28,none
+102,Chuys,Donate,"Operation Blue Santa Donation (Austin, TX)",$10.00,Help Chuy's support Operation Blue Santa and their mission to provide ...,2023-09-28,2023-09-28,none
+103,Chuys,Donate,St. Jude Donation,$1.00,Help support St. Jude Children's Research Hospital and their mission t...,2023-09-28,2023-09-28,none
+104,Chuys,Donate,St. Jude Donation,$5.00,Help support St. Jude Children's Research Hospital and their mission t...,2023-09-28,2023-09-28,none
+105,Chuys,Donate,St. Jude Donation,$10.00,Help support St. Jude Children's Research Hospital and their mission t...,2023-09-28,2023-09-28,none
